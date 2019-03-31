@@ -1,0 +1,141 @@
+﻿@import url(https://fonts.googleapis.com/css?family=Roboto:300&subset=latin,cyrillic);
+
+body {
+	font-family: Roboto;
+	background: #4D758F;
+	background: url(body_home.jpg);
+	-moz-background-size: 100%; /* Firefox 3.6+ */
+    -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+    -o-background-size: 100%; /* Opera 9.6+ */
+    background-size: 100%; /* Современные браузеры */
+	background-attachment: fixed;
+}
+
+h1 {
+	font-size: 30px;
+	font-family: Roboto;
+	text-align: center;
+	color: white;
+	font-weight: normal;
+	margin: 0;
+    padding: 0;
+}
+.h1-2 {
+	font-size: 16px;
+	margin: 5px 0px 0px 0px;
+}
+
+h2{
+	font-size: 16px;
+	font-family: Roboto;
+	text-align: center;
+	color: white;
+	font-weight: normal;
+    padding: 0;
+	margin: 0;
+}
+
+.h2-2 {
+	font-size: 30px;
+	text-align: center;
+	margin: 0;
+}
+
+.h2-3 {
+	font-size: 16px;
+	font-family: Roboto;
+	text-align: center;
+	color: white;
+	font-weight: normal;
+    padding: 0;
+	margin: 0;
+	text-align: center;
+	margin: 10px 0px 5px 0px;
+}
+
+h3{
+	font-size: 16px;
+	font-family: Roboto;
+	text-align: left;
+	color: white;
+	font-weight: normal;
+	margin: 0;
+    padding: 0;
+	text-decoration: none;
+}
+
+.h3-2 {
+	margin: 0px 0px 10px 0px;
+}
+	
+p {
+	font-size: 16px;
+	text-align: left;
+	margin: 0;
+    padding: 0;
+}
+
+div {
+	font-size: 16px;
+	font-family: Roboto;
+	color: white;
+}
+
+.block1 {
+	border: solid 1px white;
+	padding: 10px 10px 10px 10px;
+	margin: 20px 0px 0px 0px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.block2 {
+	border: solid 1px white;
+	padding: 15px 10px 15px 10px;
+	margin: 20px 0px 0px 0px;
+	width: 546px;
+	float: left;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.block3 {
+	border: solid 1px white;
+	padding: 10px 10px 10px 10px;
+	margin: 20px 0px 20px 0px;
+	width: 350px;
+	float: right;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.block4 {
+	border: solid 1px white;
+	padding: 10px 10px 10px 10px;
+	margin: 20px 0px 20px 0px;
+	width: 546px;
+	float: left;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+
+.block6 {
+	border: solid 1px white;
+	padding: 10px 10px 10px 10px;
+	margin: 20px 0px 20px 0px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.vk-logo {
+    display: block;
+    width: 220px;
+    height: auto;
+    margin: auto;
+	margin-bottom: 10px;
+	margin-top: 5px;
+}
+
+hr {
+	margin: 5px 0px 5px 0px;
+}
+
+form {
+    margin-bottom: 0px;
+}
